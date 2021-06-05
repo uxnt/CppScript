@@ -1,4 +1,4 @@
-# cpp-script:
+# cpp-script
 
 [![](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
 
