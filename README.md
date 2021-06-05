@@ -17,7 +17,6 @@ Hello, World - 2021
 ----
 ### Cpp Script - 算法
 ```javascript
-// import console
 import console
 function main() {
 	printf(1+1);
@@ -31,7 +30,6 @@ function main() {
 ---
 ### Cpp Script - 判断
 ```javascript
-// import console
 import console
 function main() {
     var x = 6;
