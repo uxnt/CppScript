@@ -1,5 +1,7 @@
-# cpp-script
-Cpp-Script
+# cpp-script:
+
+### Cpp Script
+
 ```javascript
 // import console
 import console
@@ -9,6 +11,9 @@ function main() {
 }
 ```
 
+打印输出：
+
 ```
 Hello, World - 2021
 ```
+
