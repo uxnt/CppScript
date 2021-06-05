@@ -1,6 +1,9 @@
 # cpp-script:
+
+[![](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
+
 ---
-### Cpp Script - 你好世界
+## Cpp Script - 你好世界
 ```javascript
 // import console
 import console
@@ -15,8 +18,9 @@ function main() {
 Hello, World - 2021
 ```
 ----
-### Cpp Script - 算法
+## Cpp Script - 算法
 ```javascript
+// import console
 import console
 function main() {
 	printf(1+1);
@@ -28,8 +32,9 @@ function main() {
 2
 ```
 ---
-### Cpp Script - 判断
+## Cpp Script - 判断
 ```javascript
+// import console
 import console
 function main() {
     var x = 6;
@@ -44,3 +49,81 @@ Well done!
 ```
 ---
 
+## Cpp Script - 关键字
+
+|关键字|
+|-|
+|abstract|
+|boolean|
+|break|
+|byte|
+|case|
+|catch|
+|char|
+|class|
+|const|
+|continue|
+|debugger|
+|default|
+|delete|
+|do|
+|double|
+|else|
+|enum|
+|export|
+|extends|
+|false|
+|final|
+|finally|
+|float|
+|for|
+|function|
+|goto|
+|if|
+|implements|
+|import|
+|in|
+|instanceof|
+|int|
+|interface|
+|let|
+|long|
+|native|
+|new|
+|null|
+|package|
+|private|
+|protected|
+|public|
+|return|
+|short|
+|static|
+|super|
+|switch|
+|synchronized|
+|this|
+|throw|
+|throws|
+|transient|
+|true|
+|try|
+|typeof|
+|var|
+|void|
+|volatile|
+|while|
+|with|
+
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
