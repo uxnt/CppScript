@@ -1,6 +1,6 @@
 # cpp-script
 
-[![](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
+[![png](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
 
 
 [![Gitter](https://badges.gitter.im/uxnt/cpp-script.svg)](https://gitter.im/uxnt/cpp-script?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
