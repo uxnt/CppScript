@@ -5,7 +5,6 @@
 ---
 ## Cpp Script - 你好中文
 ```javascript
-// import console
 导入 控制台;
 函数 main() {
 	打印("你好中文");
