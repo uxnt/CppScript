@@ -3,6 +3,21 @@
 [![](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
 
 ---
+## Cpp Script - 你好中文
+```javascript
+// import console
+导入 控制台;
+函数 main() {
+	打印("你好中文");
+}
+```
+打印输出：
+
+```
+你好中文
+```
+
+---
 ## Cpp Script - 你好世界
 ```javascript
 // import console
