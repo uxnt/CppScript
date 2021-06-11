@@ -1,6 +1,6 @@
 # cpp-script
 
-[![](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
+[![](CppScript-logo.png)](https://github.com/uxnt/cpp-script) [![Join the chat at https://gitter.im/uxnt/cpp-script](https://badges.gitter.im/uxnt/cpp-script.svg)](https://gitter.im/uxnt/cpp-script?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
 ## Cpp Script - 你好中文
