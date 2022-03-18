@@ -22,7 +22,7 @@ BPLM 编程语言
 ---
 ## CppScript - 你好世界
 ```javascript
-plugins "stdio.h";
+plugfile "stdio.h";
 func main() {
 	var x = 2021;
 	print("Hello, World" + " - " + x);
@@ -37,7 +37,7 @@ Hello, World - 2021
 ## CppScript - 算法
 ```javascript
 // import console
-plugins "stdio.h";
+plugfile "stdio.h";
 function main() {
 	printf(1+1);
 }
@@ -51,7 +51,7 @@ function main() {
 ## CppScript - 判断
 ```javascript
 // import console
-plugins "stdio.h";
+plugfile "stdio.h";
 function main() {
     var x = 6;
 	if(x > 5) {
@@ -69,7 +69,7 @@ Well done!
 
 |关键字|
 |-|
-|import|
+|plugfile|
 |var|
 |function|
 |if|
