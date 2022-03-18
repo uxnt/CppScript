@@ -21,7 +21,7 @@ BPLM 编程语言
 
 ---
 ## CppScript - 你好世界
-```javascript
+```go
 plug "stdio.h";
 func main() {
 	var x = 2021;
@@ -35,10 +35,10 @@ Hello, World - 2021
 ```
 ----
 ## CppScript - 算法
-```javascript
+```go
 // import console
 plug "stdio.h";
-function main() {
+func main() {
 	printf(1+1);
 }
 ```
@@ -49,10 +49,10 @@ function main() {
 ```
 ---
 ## CppScript - 判断
-```javascript
+```go
 // import console
 plug "stdio.h";
-function main() {
+func main() {
     var x = 6;
 	if(x > 5) {
 		printf("Well done!");
@@ -71,7 +71,7 @@ Well done!
 |-|
 |plug|
 |var|
-|function|
+|func|
 |if|
 |else|
 |elsif|
