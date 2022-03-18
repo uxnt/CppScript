@@ -11,6 +11,9 @@ BluePurpleLiquidMetal 编程语言是一门免费开源的编程语言，由 Uxn
 
 BluePurpleLiquidMetal (蓝紫色液态金属编程语言)
 
+BPLM 编程语言
+	
+	
 [![Gitter](https://badges.gitter.im/uxnt/cpp-script.svg)](https://gitter.im/uxnt/cpp-script?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 </div>
@@ -19,11 +22,10 @@ BluePurpleLiquidMetal (蓝紫色液态金属编程语言)
 ---
 ## CppScript - 你好世界
 ```javascript
-// import "stdio"
-import "stdio.h";
-function main() {
+plugins "stdio.h";
+func main() {
 	var x = 2021;
-	printf("Hello, World" + " - " + x);
+	print("Hello, World" + " - " + x);
 }
 ```
 打印输出：
@@ -35,7 +37,7 @@ Hello, World - 2021
 ## CppScript - 算法
 ```javascript
 // import console
-import "stdio.h";
+plugins "stdio.h";
 function main() {
 	printf(1+1);
 }
@@ -49,7 +51,7 @@ function main() {
 ## CppScript - 判断
 ```javascript
 // import console
-import "stdio.h";
+plugins "stdio.h";
 function main() {
     var x = 6;
 	if(x > 5) {
