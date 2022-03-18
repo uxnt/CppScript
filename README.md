@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#">
-<h1><img src="CppScript-logo.png" alt="Logo" width="256"></h1>
+<h1><img src="CppScript.svg" alt="Logo" width="256"></h1>
 </a>
 
 ### CppScript
