@@ -1,27 +1,17 @@
-# cpp-script
+<div align="center">
+<a href="#">
+<h1><img src="CppScript-logo.png" alt="Logo" width="256"></h1>
+</a>
 
-[![CppScript](CppScript-logo.png)](https://github.com/uxnt/cpp-script)
-
-
+### CppScript
+	
 [![Gitter](https://badges.gitter.im/uxnt/cpp-script.svg)](https://gitter.im/uxnt/cpp-script?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+</div>
+
 
 ---
-## Cpp Script - 你好中文
-```javascript
-导入 控制台;
-函数 main() {
-	打印("你好中文，平安");
-}
-```
-打印输出：
-
-```
-你好中文，平安
-```
-
----
-## Cpp Script - 你好世界
+## CppScript - 你好世界
 ```javascript
 // import console
 import console;
@@ -36,7 +26,7 @@ function main() {
 Hello, World - 2021
 ```
 ----
-## Cpp Script - 算法
+## CppScript - 算法
 ```javascript
 // import console
 import console;
@@ -50,7 +40,7 @@ function main() {
 2
 ```
 ---
-## Cpp Script - 判断
+## CppScript - 判断
 ```javascript
 // import console
 import console;
@@ -67,7 +57,7 @@ Well done!
 ```
 ---
 
-## Cpp Script - 关键字
+## CppScript - 关键字
 
 |关键字|
 |-|
