@@ -13,7 +13,7 @@
 ---
 ## CppScript - 你好世界
 ```javascript
-// import "stdio.h"
+// import "stdio"
 import "stdio.h";
 function main() {
 	var x = 2021;
