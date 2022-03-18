@@ -53,7 +53,7 @@ func main() {
 // import console
 plug "stdio.h";
 func main() {
-    var x = 6;
+	var x = 6;
 	if(x > 5) {
 		printf("Well done!");
 	}
