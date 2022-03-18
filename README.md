@@ -29,7 +29,7 @@ Hello, World - 2021
 ## CppScript - 算法
 ```javascript
 // import console
-import console;
+import "stdio.h";
 function main() {
 	printf(1+1);
 }
@@ -43,7 +43,7 @@ function main() {
 ## CppScript - 判断
 ```javascript
 // import console
-import console;
+import "stdio.h";
 function main() {
     var x = 6;
 	if(x > 5) {
