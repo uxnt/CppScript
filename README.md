@@ -22,11 +22,12 @@ BPLM 编程语言
 ---
 ## BluePurpleLiquidMetal - 你好世界
 ```go
-plug "stdio.h";
-func main() {
-	var x = 2021;
-	print("Hello, World" + " - " + x);
-}
+plug "stdio.h"
+func main()
+     var x = 2021
+     print("Hello, World" + " - " + x)
+end
+
 ```
 打印输出：
 
@@ -36,11 +37,10 @@ Hello, World - 2021
 ----
 ## BluePurpleLiquidMetal - 算法
 ```go
-// import console
-plug "stdio.h";
-func main() {
-	printf(1+1);
-}
+plug "stdio.h"
+func main()
+     printf(1+1)
+end
 ```
 打印输出：
 
@@ -50,14 +50,13 @@ func main() {
 ---
 ## BluePurpleLiquidMetal - 判断
 ```go
-// import console
-plug "stdio.h";
-func main() {
-	var x = 6;
-	if(x > 5) {
-		printf("Well done!");
-	}
-}
+plug "stdio.h"
+func main()
+     var x = 6
+     if(x > 5)
+          printf("Well done!")
+     end
+end
 ```
 打印输出：
 ```
