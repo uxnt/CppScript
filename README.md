@@ -11,6 +11,8 @@ BluePurpleLiquidMetal 编程语言是一门免费开源的编程语言，由 Uxn
 
 BluePurpleLiquidMetal (蓝紫色液态金属编程语言)
 
+将液态金属倒进计算机开始编程
+	
 BPLM 编程语言
 	
 	
