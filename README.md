@@ -13,8 +13,8 @@
 ---
 ## CppScript - 你好世界
 ```javascript
-// import console
-import console;
+// import "stdio.h"
+import "stdio.h";
 function main() {
 	var x = 2021;
 	printf("Hello, World" + " - " + x);
