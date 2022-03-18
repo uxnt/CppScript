@@ -20,7 +20,7 @@ BPLM 编程语言
 
 
 ---
-## CppScript - 你好世界
+## BluePurpleLiquidMetal - 你好世界
 ```go
 plug "stdio.h";
 func main() {
@@ -34,7 +34,7 @@ func main() {
 Hello, World - 2021
 ```
 ----
-## CppScript - 算法
+## BluePurpleLiquidMetal - 算法
 ```go
 // import console
 plug "stdio.h";
@@ -48,7 +48,7 @@ func main() {
 2
 ```
 ---
-## CppScript - 判断
+## BluePurpleLiquidMetal - 判断
 ```go
 // import console
 plug "stdio.h";
@@ -65,7 +65,7 @@ Well done!
 ```
 ---
 
-## CppScript - 关键字
+## BluePurpleLiquidMetal - 关键字
 
 |关键字|
 |-|
